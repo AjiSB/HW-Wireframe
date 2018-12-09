@@ -24,6 +24,7 @@ h1, p {
     color: #777;
     background: #ebebeb; 
     padding: 15px;
+    margin: 10px;
 }
 
 section {
@@ -45,7 +46,7 @@ footer {
 aside {
 width: 320px;
 float: right;
-height: 334px;
+height: 218px;
 
 }
 div.container {
